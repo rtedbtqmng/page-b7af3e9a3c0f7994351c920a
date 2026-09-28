@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5295ecd79a9ccc60cfa374cc",
+  "owner": "rtedbtqmng",
+  "repo": "page-b7af3e9a3c0f7994351c920a",
+  "title": "365VPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b7af3e9a3c0f7994351c920a",
+      "a": "365VPN",
+      "b": "",
+      "entity": "365VPN",
+      "brand": "365VPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c6815f30d4aed6f2b0758c392edd6a2e25fdcd47c4e4bde8091f5461da2f3d04",
+      "content": {
+        "keyword1": "365VPN",
+        "keyword2": "",
+        "primary_entity": "365VPN",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "365VPN 是一款优质VPN加速器，提供多种流量套餐和稳定加速。立即下载客户端，享受高速安全上网之旅。",
+          "AI_DESCRIPTION": "365VPN 是一款优质VPN加速器，提供多种流量套餐和稳定加速。立即下载客户端，享受高速安全上网之旅。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --ivory: #f8f4f0;\n            --forest: #2d6a4f;\n            --text: #1f2937;\n        }\n        body {\n            background-color: var(--ivory);\n            color: var(--text);\n            font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n            line-height: 1.7;\n            margin: 0;\n            padding: 0;\n        }\n        main {\n            max-width: 800px;\n            margin: 0 auto;\n            padding: 2rem 1rem;\n        }\n        h1 {\n            color: var(--forest);\n            font-size: 2.8rem;\n            text-align: center;\n            margin-bottom: 0.5rem;\n        }\n        h2 {\n            color: var(--forest);\n            font-size: 1.8rem;\n            margin: 2rem 0 1rem;\n            border-bottom: 2px solid var(--forest);\n            padding-bottom: 0.5rem;\n        }\n        p {\n            margin-bottom: 1rem;\n        }\n        ol {\n            background: white;\n            padding: 1.5rem;\n            border-radius: 12px;\n            list-style: decimal;\n        }\n        ol li {\n            margin-bottom: 1rem;\n            position: relative;\n            padding-left: 1.5rem;\n        }\n        ol li:before {\n            content: \"\";\n            position: absolute;\n            left: 0;\n            top: 0.3rem;\n            width: 1rem;\n            height: 1rem;\n            background: var(--forest);\n            color: white;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-size: 0.9rem;\n        }\n        details {\n            background: white;\n            margin-bottom: 1rem;\n            border-radius: 12px;\n            overflow: hidden;\n        }\n        summary {\n            font-weight: bold;\n            padding: 1rem;\n            cursor: pointer;\n            background: #f8f4f0;\n        }\n        summary:hover {\n            background: #e8e0d8;\n        }\n        a {\n            color: var(--forest);\n            text-decoration: none;\n        }\n        a:hover {\n            text-decoration: underline;\n        }\n        .plans-section, .clients-section {\n            background: white;\n            padding: 1.5rem;\n            border-radius: 12px;\n            margin: 1.5rem 0;\n        }\n        .plans-section h3, .clients-section h3 {\n            color: var(--forest);\n            margin-top: 0;\n        }\n    </style>\n\n\n    <main>\n        <h1>365VPN</h1>\n        <p>VPN加速器 | 客户端下载</p>\n        \n        <h2>品牌简介</h2>\n        <p>365VPN 是一款专注于提供优质VPN加速服务的网络工具。通过先进的加速技术，帮助用户轻松突破网络限制，享受高速、安全的互联网体验。</p>\n        \n        <h2>使用场景</h2>\n        <p>适用于日常办公、在线学习、旅行出差等场景，帮助您保持稳定连接，保护隐私数据。</p>\n        \n        <h2>配置流程</h2>\n        <p>按照以下步骤，您可以快速完成VPN配置并开始加速：</p>\n        <ol>\n            <li>访问官网下载官方客户端</li>\n            <li>安装并打开客户端软件</li>\n            <li>登录账号并选择合适套餐</li>\n            <li>选择节点连接服务器</li>\n            <li>开启加速功能，享受高速上网</li>\n        </ol>\n        \n        {{PLANS_HTML}}\n        \n        <h2>常见问题</h2>\n        <details>\n            <summary>什么是365VPN？</summary>\n            <p>365VPN 是一款稳定高效的VPN加速器，提供多种流量套餐和设备支持，帮助用户提升网络速度并保障隐私。</p>\n        </details>\n        <details>\n            <summary>如何下载客户端？</summary>\n            <p>请访问官网，点击下载按钮，即可获取适用于不同操作系统的官方客户端。</p>\n        </details>\n        <details>\n            <summary>支持哪些设备？</summary>\n            <p>365VPN 客户端支持 Windows、macOS、Android 和 iOS 等主流平台，满足不同用户需求。</p>\n        </details>\n        <details>\n            <summary>套餐选择指南？</summary>\n            <p>基础版适合个人日常使用，旗舰版提供更多流量和优化，团队版适合企业级需求。</p>\n        </details>\n        <details>\n            <summary>售后服务如何？</summary>\n            <p>365VPN 提供7x24工单支持，旗舰版和团队版用户可享受优先响应和专属服务。</p>\n        </details>\n        \n        <h2>客户端下载</h2>\n        <p>立即下载365VPN官方客户端，开启您的加速之旅。</p>\n        {{CLIENTS_HTML}}\n    </main>\n\n",
+          "hash": "9f22c22b06389ca2d582f844d6ac9ad73647d496b6318ab9b7d2b0d03deca16e",
+          "seo": {
+            "title": "365VPN - 优质VPN加速器 | 客户端下载 | 官网",
+            "keywords": "365VPN,VPN加速器,机场,客户端下载,VPN套餐",
+            "description": "365VPN 是一款优质VPN加速器，提供多种流量套餐和稳定加速。立即下载客户端，享受高速安全上网之旅。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tmndpg.cn",
+    "host": "c.tmndpg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "tmndpg.cn",
+      "url": "https://tmndpg.cn/",
+      "label": "少数派",
+      "apex": "tmndpg.cn",
+      "kind": null,
+      "identity": "feaucgxrkrt/page-e0d747bcff009e5d79254dbb"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9ea884eb98d866fd84ca364e6da490d72248052592f802fa674e036d96ca5b6b",
+    "sitemap.xml": "38c42059c82f81dc79789fc6d0d7c83d31db90ab8d6de5a38bd2ddcb66955131",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0e325e9f955ad1bdffc56229a74f3b479bde4b89357bed598ba34e8cb9e70847",
+    "robots.txt": "649e40f1665da65d5f010ecdf61398070ba5b5f88ef6850afad2cbce46b4527d",
+    "211186750721f45f578bde4d151991a5.txt": "fbb2b016549f6591d153f3f25cfb8839aeb7a71988f0da26c3d84b8607fbe7b9"
+  },
+  "revision": "e71481a5062c1842cdd90881c431ce63ff46775eee377cb66d40a3b28e667059"
+}
